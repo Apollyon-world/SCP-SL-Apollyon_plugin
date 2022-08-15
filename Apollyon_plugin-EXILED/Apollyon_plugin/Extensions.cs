@@ -11,8 +11,8 @@ namespace Apollyon_plugin
 {
     internal static class Extensions
     {
-        private static Config config = ManagerO5.Singleton.Config;
-        private static ManagerO5 plugin = ManagerO5.Singleton;
+        private static Config config => ManagerO5.Singleton.Config;
+        private static ManagerO5 plugin => ManagerO5.Singleton;
         private static int scp035num;
 
         public static List<Player> GetScp035s() => Player.List.Where(x => x.SessionVariables.ContainsKey("IsScp035")).ToList();
