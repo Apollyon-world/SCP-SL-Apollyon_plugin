@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xbk3KLwm2tslbrF7nH5vOfZFRhXOvVkdaIxgLc7WyBX9Px59iUTUGN6Ps7PGVigLn+t5vV8sckRLj2nuL3dZbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anais\\source\\repos\\Apollyon_plugin-EXILED\\Apollyon_plugin\\Apollyon_plugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anais\\.nuget\\packages\\exiled\\5.1.3\\exiled.5.1.3.nupkg.sha512",
+    "C:\\Users\\anais\\.nuget\\packages\\lib.harmony\\2.2.0\\lib.harmony.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
